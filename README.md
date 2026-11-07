@@ -194,4 +194,4 @@ This repository serves as the official landing page for Heroes of Hammerwatch II
 **Get the most recent version of Heroes of Hammerwatch II today!**
 
 ---
-**Last updated:** 2026-11-07 17:18:49 UTC
+**Last updated:** 2026-11-07 21:20:56 UTC
